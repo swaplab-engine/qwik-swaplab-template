@@ -8,6 +8,11 @@
 
 ---
 
+![SwapLab Certified](https://img.shields.io/badge/SwapLab-Certified-success)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Structure](https://img.shields.io/badge/Structure-Monorepo-orange)
+
+
 # Qwik Capacitor Template ⚡️
 
 Official Qwik template optimized for **[SwapLab.net](https://swaplab.net)**.
