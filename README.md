@@ -29,7 +29,7 @@ Want to test if this works immediately? You don't need an account or a GitHub re
 ### [🚀 Go to Public Builder (public.swaplab.net)](https://public.swaplab.net)
 
 * **🛡️ No Sign-In Required:** We don't ask for your GitHub account or email.
-* **📦 Unlimited Plugins:** Supports **ANY** Capacitor Plugin or NPM package (including custom git URLs). We do not enforce a whitelist restrictions.
+* **📦 Unlimited Plugins:** Supports **ANY** Capacitor/Cordova Plugin or NPM package (including custom git URLs). We do not enforce a whitelist restrictions.
 * **🔒 Zero-Retention:** Upload your Zip, get your APK, and we delete your files instantly.
 * **🤝 Transparent & Unlimited:** Builds are executed on our [Public Engine Runner](https://github.com/swaplab-engine/public-build-swaplab-engine/actions). It is fully audit-able and **does NOT consume** your personal GitHub Action minutes.
 
@@ -37,6 +37,13 @@ Want to test if this works immediately? You don't need an account or a GitHub re
 1.  Click the green **<> Code** button above -> **Download ZIP**.
 2.  Extract the file and open the folder of the template you want (e.g., `/qwik-template`).
 3.  **Zip that specific folder** and upload it to [public.swaplab.net](https://public.swaplab.net).
+
+
+## 📺 Video Tutorials
+
+Visual learner? Watch our step-by-step guides directly on YouTube.
+
+* **🎥 [Qwik to Android APK: Free Public Build (No Sign-In Required)](https://youtu.be/2F_4uSPvCRU)**
 
 ---
 
